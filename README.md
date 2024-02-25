@@ -1,4 +1,4 @@
-# Majhi-Bihin-Nouka(Game)
+# Boat Rush - Endless river adventure game
 OpenGL project
 
 All header files included here are Game Objects.
